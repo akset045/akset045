@@ -8,4 +8,4 @@
 
 <br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akset045&layout=compact&custom_title=Languages)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akset045&layout=compact&custom_title=Languages)
